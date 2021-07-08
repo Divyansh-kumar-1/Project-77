@@ -1,5 +1,6 @@
 body {
     background:linear-gradient(aqua,lime);
+    text-align: center;
 }
 h1 {
     font-size: 50px;
